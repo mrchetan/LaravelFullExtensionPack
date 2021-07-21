@@ -1,0 +1,88 @@
+{
+	"name": "laravel-extension-pack",
+	"displayName": "Laravel Full Extension Pack",
+	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
+	"version": "1.0.0",
+	"publisher": "MrChetan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrchetan/LaravelFullExtensionPack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f66f62",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"laravel",
+		"blade",
+		"php",
+		"snippet"
+	],
+	"extensionPack": [
+		"adrianwilczynski.alpine-js-intellisense", 
+		"calebporzio.better-phpunit", 
+		"mikestead.dotenv", 
+        "EditorConfig.EditorConfig", 
+        "rifi2k.format-html-in-php", 
+        "xabikos.JavaScriptSnippets",
+        "tiansin.vscode-laravel-assist", 
+        "ryannaddy.laravel-artisan", 
+		"amiralizadeh9480.laravel-extra-intellisense",
+        "shufo.vscode-blade-formatter", 
+        "onecentlin.laravel-blade", 
+        "lakuapik.livewire-goto", 
+        "geyao.html-snippets", 
+        "ctf0.laravel-goto-config", 
+        "ctf0.laravel-goto-env", 
+        "codingyu.laravel-goto-view", 
+		"mohamedbenhida.laravel-intellisense",
+        "stef-k.laravel-goto-controller", 
+        "ahinkle.laravel-model-snippets", 
+        "m7md3omer.laravel-relationship-snippets", 
+        "onecentlin.laravel5-snippets", 
+        "cierra.livewire-vscode", 
+        "felixfbecker.php-debug", 
+        "rexshi.phpdoc-comment-vscode-plugin", 
+        "bmewburn.vscode-intelephense-client", 
+        "MehediDracula.php-namespace-resolver", 
+        "wongjn.php-sniffer", 
+		"bradlc.vscode-tailwindcss",
+		"GitHub.copilot", 
+		"donjayamanne.githistory", 
+		"eamodio.gitlens", 
+        "mhutchie.git-graph", 
+        "GitHub.vscode-pull-request-github", 
+        "ms-vscode.notepadplusplus-keybindings", 
+        "Equinusocio.vsc-material-theme", 
+        "PKief.material-icon-theme",
+		"formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag", 
+		"aaron-bond.better-comments", 
+        "coenraads.bracket-pair-colorizer-2", 
+		"kisstkondoros.vscode-gutter-preview", 
+		"quicktype.quicktype",
+        "naumovs.color-highlight", 
+        "pranaygp.vscode-css-peek", 
+        "usernamehw.errorlens",
+        "ritwickdey.LiveServer", 
+        "esbenp.prettier-vscode", 
+        "ms-vscode-remote.remote-containers", 
+        "ms-vscode-remote.remote-ssh", 
+        "ms-vscode-remote.remote-wsl", 
+        "humao.rest-client", 
+        "moyu.snapcode", 
+        "jock.svg", 
+        "SimonSiefke.svg-preview", 
+        "VisualStudioExptTeam.vscodeintellicode",
+		"deerawan.vscode-faker",
+        "tomoki1207.pdf"
+	]
+
+}
