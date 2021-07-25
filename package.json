@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -39,7 +39,7 @@
         "onecentlin.laravel-blade", 
         "lakuapik.livewire-goto", 
         "geyao.html-snippets", 
-        "ctf0.laravel-goto-config", 
+        "MrChetan.laravel-goto-config", 
         "ctf0.laravel-goto-env", 
         "codingyu.laravel-goto-view", 
 		"mohamedbenhida.laravel-intellisense",

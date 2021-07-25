@@ -50,7 +50,7 @@ This extension pack includes the following extensions:
 
 * [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) - Livewire goto vscode extension.
 
-* [Laravel Goto Config](https://marketplace.visualstudio.com/items?itemName=ctf0.laravel-goto-config) - Quick jump to config.
+* [Laravel Goto Config](https://marketplace.visualstudio.com/items?itemName=MrChetan.laravel-goto-config) - Quick jump to config in Laravel project.
 
 * [Laravel Goto Env](https://marketplace.visualstudio.com/items?itemName=ctf0.laravel-goto-env) - Quick jump to env.
 
