@@ -1,5 +1,6 @@
 # Change Log
-
+## [1.3.0]
+- Replace Extensions with Extension pack
 ## [1.2.0]
 
 - Add Extension ```PhpStorm Parameter Hints in VScode```, ```Code Spell Checker```, ```File Utils```
