@@ -36,8 +36,6 @@ This extension pack includes the following extensions:
 
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 
-* [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=geyao.html-snippets) - Full HTML tags including HTML5 Snippets.
-
 * [Laravel Assist](https://marketplace.visualstudio.com/items?itemName=tiansin.vscode-laravel-assist) - Laravel development auxiliary extension.
 
 * [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Run Laravel Artisan commands within Visual Studio Code.
