@@ -34,6 +34,8 @@ This extension pack includes the following extensions:
 
 * [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Provides formatting for the HTML code in PHP files using JSbeautify - Works well paired with a PHP formatting extension.
 
+* [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) - Headwind is an opinionated Tailwind CSS class sorter for Visual Studio Code. It enforces consistent ordering of classes by parsing your code and reprinting class tags to follow a given order.
+
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 
 * [Laravel Assist](https://marketplace.visualstudio.com/items?itemName=tiansin.vscode-laravel-assist) - Laravel development auxiliary extension.

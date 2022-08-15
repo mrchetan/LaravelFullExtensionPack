@@ -1,4 +1,8 @@
 # Change Log
+
+## [1.4.0]
+
+- Add Extension ```Headwind```
 ## [1.3.1]
 - Remove html-snippets extension
 ## [1.3.0]
