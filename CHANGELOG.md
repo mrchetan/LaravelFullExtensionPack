@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.5.0]
+
+- Remove Deprecated extension.
 ## [1.4.0]
 
 - Add Extension ```Headwind```

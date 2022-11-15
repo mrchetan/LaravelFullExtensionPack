@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -68,7 +68,6 @@
 		"formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag", 
 		"aaron-bond.better-comments", 
-        "coenraads.bracket-pair-colorizer-2", 
 		"kisstkondoros.vscode-gutter-preview", 
 		"quicktype.quicktype",
         "naumovs.color-highlight", 
