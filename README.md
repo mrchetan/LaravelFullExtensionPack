@@ -28,6 +28,8 @@ This extension pack includes the following extensions:
 
 * [Better PHPUnit](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit) - A better PHPUnit test runner
 
+* [Composer Intelephense](https://marketplace.visualstudio.com/items?itemName=muath-ye.composer-Intelephense) - Intelephense for composer the PHP dependency manager.
+
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
@@ -141,6 +143,8 @@ This extension pack includes the following extensions:
 * [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG Coding, Minify, Pretty, Preview All-In-One.
 
 * [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Preview for Svg files.
+
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - This extension shows version information when opening a package or project for one of the following:
 
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 

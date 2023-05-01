@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.5.0",
+	"version": "1.6.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -28,6 +28,7 @@
 	"extensionPack": [
 		"adrianwilczynski.alpine-js-intellisense", 
 		"calebporzio.better-phpunit", 
+		"muath-ye.composer-Intelephense",
 		"mikestead.dotenv", 
         "EditorConfig.EditorConfig", 
         "rifi2k.format-html-in-php",
@@ -80,6 +81,7 @@
         "moyu.snapcode", 
         "jock.svg", 
         "SimonSiefke.svg-preview", 
+		"pflannery.vscode-versionlens",
         "VisualStudioExptTeam.vscodeintellicode",
 		"deerawan.vscode-faker",
         "tomoki1207.pdf"
