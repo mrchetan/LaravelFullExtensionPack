@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.7.0]
+
+- Add Extension  `GitHub Repositories`, `Remote Repositories`, `AWS Toolkit`, `GitHub Copilot Voice`, `GitHub Actions`, `GitHub Codespaces`, `GitHub Copilot Labs`
+
 ## [1.6.0]
 
 - Add Extension `Composer Intelephense`, `Version Lens`
