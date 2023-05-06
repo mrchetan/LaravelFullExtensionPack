@@ -34,6 +34,8 @@ This extension pack includes the following extensions:
 
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 
+* [Env Symbol Provider](https://marketplace.visualstudio.com/items?itemName=ctf0.env-symbol-provider) - Env files Symbol Provider
+
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 
 * [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Provides formatting for the HTML code in PHP files using JSbeautify - Works well paired with a PHP formatting extension.

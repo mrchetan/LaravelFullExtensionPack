@@ -1,5 +1,7 @@
 # Change Log
+## [1.7.1]
 
+- Add Extension `Env Symbol Provider`
 ## [1.7.0]
 
 - Add Extension  `GitHub Repositories`, `Remote Repositories`, `AWS Toolkit`, `GitHub Copilot Voice`, `GitHub Actions`, `GitHub Codespaces`, `GitHub Copilot Labs`

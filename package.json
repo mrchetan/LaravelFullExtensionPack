@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -30,6 +30,7 @@
 		"adrianwilczynski.alpine-js-intellisense", 
 		"calebporzio.better-phpunit", 
 		"muath-ye.composer-Intelephense",
+		"ctf0.env-symbol-provider",
 		"mikestead.dotenv", 
         "EditorConfig.EditorConfig", 
         "rifi2k.format-html-in-php",
