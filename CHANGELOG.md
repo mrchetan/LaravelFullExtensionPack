@@ -1,4 +1,8 @@
 # Change Log
+
+## [1.7.2]
+- Remove Extension `Laravel Assist`
+
 ## [1.7.1]
 
 - Add Extension `Env Symbol Provider`

@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.7.1",
+	"version": "1.7.2",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -36,7 +36,6 @@
         "rifi2k.format-html-in-php",
 		"heybourn.headwind", 
         "xabikos.JavaScriptSnippets",
-        "tiansin.vscode-laravel-assist", 
         "ryannaddy.laravel-artisan", 
 		"amiralizadeh9480.laravel-extra-intellisense",
         "shufo.vscode-blade-formatter", 
