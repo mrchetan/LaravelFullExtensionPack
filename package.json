@@ -2,7 +2,7 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "1.7.2",
+	"version": "1.8.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -62,6 +62,7 @@
 		"github.vscode-github-actions",
 		"GitHub.codespaces",
 		"GitHub.copilot", 
+		"GitHub.copilot-chat", 
 		"GitHub.heygithub",
 		"GitHub.copilot-labs",
 		"donjayamanne.githistory", 

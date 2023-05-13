@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.8.0]
+
+- Add Extension  `GitHub Copilot Chat`
+
 ## [1.7.2]
 - Remove Extension `Laravel Assist`
 
