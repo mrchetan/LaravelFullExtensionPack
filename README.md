@@ -6,7 +6,7 @@ VS Code extension pack help to create a your Laravel app.
 
 You not need to install all extensions one by one just this extension pack for Laravel development.
 
-This Extension combination of 3 Extension Pack 
+This Extension combination of 3 Extension Pack
 * [Mr Chetan Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.laravel)
 * [Mr Chetan Always On Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.alwayson)
 * [Mr Chetan Recommended Extension Pack](https://marketplace.visualstudio.com/items?itemName=MrChetan.recommended)
@@ -82,7 +82,7 @@ This extension pack includes the following extensions:
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
 
 * [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
-    
+
     * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
 
 
@@ -133,6 +133,8 @@ This extension pack includes the following extensions:
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!.
+
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmark) - Mark lines and jump to them
 
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 
@@ -185,22 +187,22 @@ This extension pack includes the following extensions:
 * [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
-* `composer global require laravel/installer` 
+* `composer global require laravel/installer`
 * `laravel new <AppName>` Example : laravel new chetan
-* `composer install` 
-* `npm install` 
-* `npm run dev` 
-* `npm run wathc` 
-* `npm run production` 
-* `php artisan storage:link` 
-* `php artisan key:generate` 
-* `php artisan migrate` 
+* `composer install`
+* `npm install`
+* `npm run dev`
+* `npm run wathc`
+* `npm run production`
+* `php artisan storage:link`
+* `php artisan key:generate`
+* `php artisan migrate`
 * `php artisan serve`
 * `php artisan config:cache`
 * `php artisan make:controller <ControllerName> -r` Example : php artisan make:controller Users -r  <br> *__-r is used to add a resource controller__*
 * `php artisan make:model <ModelName> -m` Example : php artisan make:model User -m <br>*__-m is used to create a migratioin__*
 * `php artisan make:migration <MigrationFileName> --table=<tableName>` Example : php artisan make:migration add_booing_date_field_bookings --table=bookings
-* `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin 
+* `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin
 * `php artisan make:mail <mailName> -m emails.<mailFileName>` Example : php artisan make:mail Enquiry -m emails.enquiry
 * `php artisan make:seeder <SeederName>` Example : php artisan make:seeder Settings
 * `laravel new v8 --jet --stack livewire --teams`

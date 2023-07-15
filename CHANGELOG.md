@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.9.0]
+
+- Add Extension  `Bookmarks`
 ## [1.8.0]
 
 - Add Extension  `GitHub Copilot Chat`
