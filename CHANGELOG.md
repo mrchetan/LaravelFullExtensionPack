@@ -1,5 +1,7 @@
 # Change Log
 
+## [2.0.0]
+- Add Extension `Laravel Goto Components`
 ## [1.9.0]
 
 - Add Extension  `Bookmarks`

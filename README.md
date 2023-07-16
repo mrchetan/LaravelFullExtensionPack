@@ -52,7 +52,9 @@ This extension pack includes the following extensions:
 
 * [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support.
 
-* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lakuapik.livewire-goto) - Livewire goto vscode extension.
+* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) - Livewire goto vscode extension.
+
+* [Laravel Goto Components](https://marketplace.visualstudio.com/items?itemName=MrChetan.goto-laravel-components) - Laravel Goto Components is a Visual Studio Code extension that allows you to quickly jump to components in your Laravel project.
 
 * [Laravel Goto Config](https://marketplace.visualstudio.com/items?itemName=MrChetan.laravel-goto-config) - Quick jump to config in Laravel project.
 
