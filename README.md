@@ -102,26 +102,21 @@ This extension pack includes the following extensions:
 
 * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - AI chat features powered by Copilot
 
-* [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) - A voice assistant for VS Code
-
 * [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - GitHub Actions workflows and runs for github.com hosted repositories in VS Code
 
 * [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Your instant dev environment
-
-* [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) - Experimental features for GitHub Copilot
 
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
 
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 * [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit any GitHub repository
+
 * [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories) - Remotely browse and edit git repositories
 
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 
 * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub.
-
-* [Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) - Popular Notepad++ keybindings for Visual Studio Code.
 
 * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code
 
