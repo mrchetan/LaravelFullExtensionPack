@@ -2,14 +2,14 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "2.1.0",
+	"version": "3.0.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrchetan/LaravelFullExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.26.0"
+		"vscode": "^1.89.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -36,15 +36,13 @@
         "rifi2k.format-html-in-php",
 		"heybourn.headwind",
         "xabikos.JavaScriptSnippets",
+		"laravel.vscode-laravel",
         "ryannaddy.laravel-artisan",
 		"amiralizadeh9480.laravel-extra-intellisense",
         "shufo.vscode-blade-formatter",
         "onecentlin.laravel-blade",
         "lennardv.livewire-goto-updated",
 		"MrChetan.goto-laravel-components",
-        "MrChetan.laravel-goto-config",
-        "ctf0.laravel-goto-env",
-        "codingyu.laravel-goto-view",
 		"mohamedbenhida.laravel-intellisense",
         "stef-k.laravel-goto-controller",
         "ahinkle.laravel-model-snippets",

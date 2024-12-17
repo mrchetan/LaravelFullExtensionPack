@@ -44,6 +44,8 @@ This extension pack includes the following extensions:
 
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 
+* [Laravel](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) - Official VS Code extension for Laravel
+
 * [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Run Laravel Artisan commands within Visual Studio Code.
 
 * [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) - better intellisense for laravel projects.
@@ -55,12 +57,6 @@ This extension pack includes the following extensions:
 * [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) - Livewire goto vscode extension.
 
 * [Laravel Goto Components](https://marketplace.visualstudio.com/items?itemName=MrChetan.goto-laravel-components) - Laravel Goto Components is a Visual Studio Code extension that allows you to quickly jump to components in your Laravel project.
-
-* [Laravel Goto Config](https://marketplace.visualstudio.com/items?itemName=MrChetan.laravel-goto-config) - Quick jump to config in Laravel project.
-
-* [Laravel Goto Env](https://marketplace.visualstudio.com/items?itemName=ctf0.laravel-goto-env) - Quick jump to env.
-
-* [Laravel goto view](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) - Quick jump to view.
 
 * [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense) - Laravel intellisense for Visual Studio Code.
 

@@ -1,5 +1,9 @@
 # Change Log
 
+## [3.0.0]
+- Add Extension `Laravel Official Extension`
+- Remove Extension `Laravel Goto Config`, `Laravel Goto Env` and `Laravel goto view`
+
 ## [2.1.0]
 - Remove extensions `Notepad++ keymap`, `GitHub Copilot Voice` and `GitHub Copilot Labs`
 
