@@ -54,22 +54,13 @@ This extension pack includes the following extensions:
 
 * [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support.
 
-* [Livewire Goto](https://marketplace.visualstudio.com/items?itemName=lennardv.livewire-goto-updated) - Livewire goto vscode extension.
-
-* [Laravel Goto Components](https://marketplace.visualstudio.com/items?itemName=MrChetan.goto-laravel-components) - Laravel Goto Components is a Visual Studio Code extension that allows you to quickly jump to components in your Laravel project.
-
 * [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense) - Laravel intellisense for Visual Studio Code.
-
-* [laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) - Alt + click to navigate from a route to a respective controller file.
 
 * [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get up and running with your Laravel Models
 
 * [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=m7md3omer.laravel-relationship-snippets) - laravel and php snippets for common functions and classes.
 
 * [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel snippets for Visual Studio Code (Support Laravel 5 and above).
-
-* [Livewire Language Support](https://marketplace.visualstudio.com/items?itemName=cierra.livewire-vscode) - Snippets, Parameter Discovery, Syntax Highlighting and Formatting for Livewire.
-
 
 * [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug support for PHP with XDebug.
 
@@ -87,7 +78,6 @@ This extension pack includes the following extensions:
 * [PhpStorm Parameter Hints in VScode](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode) - PhpStorm parameter hint for VS Code.
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
-
 
 
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
@@ -130,8 +120,6 @@ This extension pack includes the following extensions:
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
 
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
-
-* [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
@@ -185,8 +173,7 @@ This extension pack includes the following extensions:
 * `composer install`
 * `npm install`
 * `npm run dev`
-* `npm run wathc`
-* `npm run production`
+* `npm run build`
 * `php artisan storage:link`
 * `php artisan key:generate`
 * `php artisan migrate`
@@ -198,7 +185,6 @@ This extension pack includes the following extensions:
 * `php artisan make:middleware <MiddlewareName>` Example : php artisan make:middleware IsAdmin
 * `php artisan make:mail <mailName> -m emails.<mailFileName>` Example : php artisan make:mail Enquiry -m emails.enquiry
 * `php artisan make:seeder <SeederName>` Example : php artisan make:seeder Settings
-* `laravel new v8 --jet --stack livewire --teams`
 * `php artisan down`
 * `php artisan up`
 * `php artisan vandor:publish`
