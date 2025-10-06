@@ -2,14 +2,14 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrchetan/LaravelFullExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.89.0"
+		"vscode": "^1.104.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
