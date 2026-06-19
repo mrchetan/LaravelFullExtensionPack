@@ -24,8 +24,6 @@ This Extension combination of 3 Extension Pack
 
 This extension pack includes the following extensions:
 
-* [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) - Including support for CodeWhisperer, CodeCatalyst, Lambda, S3, CloudWatch Logs, and many other services
-
 * [Alpine.js IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) - Simple IntelliSense & Snippets for Alpine.js framework.
 
 * [Better PHPUnit](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit) - A better PHPUnit test runner
@@ -38,29 +36,15 @@ This extension pack includes the following extensions:
 
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 
-* [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Provides formatting for the HTML code in PHP files using JSbeautify - Works well paired with a PHP formatting extension.
-
 * [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) - Headwind is an opinionated Tailwind CSS class sorter for Visual Studio Code. It enforces consistent ordering of classes by parsing your code and reprinting class tags to follow a given order.
 
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 
 * [Laravel](https://marketplace.visualstudio.com/items?itemName=laravel.vscode-laravel) - Official VS Code extension for Laravel
 
-* [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Run Laravel Artisan commands within Visual Studio Code.
-
-* [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) - better intellisense for laravel projects.
-
 * [Laravel Blade formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter) - Laravel Blade formatter for VSCode.
 
 * [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support.
-
-* [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense) - Laravel intellisense for Visual Studio Code.
-
-* [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get up and running with your Laravel Models
-
-* [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=m7md3omer.laravel-relationship-snippets) - laravel and php snippets for common functions and classes.
-
-* [Laravel Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel snippets for Visual Studio Code (Support Laravel 5 and above).
 
 * [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug support for PHP with XDebug.
 
@@ -70,12 +54,9 @@ This extension pack includes the following extensions:
 
 * [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
 
-* [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer) - Uses PHP_CodeSniffer to format and lint PHP code.
+* [PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=mrchetan.sniffer-of-php) - Uses PHP_CodeSniffer to format and lint PHP code.
 
     * [PHP Coding Standard](https://github.com/mrchetan/PHPStandard) - This repository contains rulesets for PHP CodeSniffer and PHP Mess Detector along with some custom rules.
-
-
-* [PhpStorm Parameter Hints in VScode](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode) - PhpStorm parameter hint for VS Code.
 
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
 
@@ -83,10 +64,6 @@ This extension pack includes the following extensions:
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-
-* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer
-
-* [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - AI chat features powered by Copilot
 
 * [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - GitHub Actions workflows and runs for github.com hosted repositories in VS Code
 
@@ -112,8 +89,6 @@ This extension pack includes the following extensions:
 
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
-
-* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!.
 
@@ -143,8 +118,6 @@ This extension pack includes the following extensions:
 * [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Preview for Svg files.
 
 * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - This extension shows version information when opening a package or project for one of the following:composer,dotnet,dub,maven,npm,jspm,pnpm,pub
-
-* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 
 * [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
 

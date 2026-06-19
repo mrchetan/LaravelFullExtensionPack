@@ -2,14 +2,14 @@
 	"name": "laravel-extension-pack",
 	"displayName": "Laravel Extension Pack",
 	"description": "A collection of extensions for Laravel development by Chetan Bhalothia",
-	"version": "4.1.0",
+	"version": "4.2.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrchetan/LaravelFullExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.104.0"
+		"vscode": "^1.107.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -26,38 +26,27 @@
 		"snippet"
 	],
 	"extensionPack": [
-		"amazonwebservices.aws-toolkit-vscode",
 		"adrianwilczynski.alpine-js-intellisense",
 		"calebporzio.better-phpunit",
 		"muath-ye.composer-Intelephense",
 		"ctf0.env-symbol-provider",
 		"mikestead.dotenv",
         "EditorConfig.EditorConfig",
-        "rifi2k.format-html-in-php",
 		"heybourn.headwind",
         "xabikos.JavaScriptSnippets",
 		"laravel.vscode-laravel",
-        "ryannaddy.laravel-artisan",
-		"amiralizadeh9480.laravel-extra-intellisense",
         "shufo.vscode-blade-formatter",
         "onecentlin.laravel-blade",
-		"mohamedbenhida.laravel-intellisense",
-        "ahinkle.laravel-model-snippets",
-        "m7md3omer.laravel-relationship-snippets",
-        "onecentlin.laravel5-snippets",
         "felixfbecker.php-debug",
         "rexshi.phpdoc-comment-vscode-plugin",
         "bmewburn.vscode-intelephense-client",
         "MehediDracula.php-namespace-resolver",
-        "wongjn.php-sniffer",
-        "MrChetan.phpstorm-parameter-hints-in-vscode",
+        "mrchetan.sniffer-of-php",
 		"bradlc.vscode-tailwindcss",
         "streetsidesoftware.code-spell-checker",
 		"sleistner.vscode-fileutils",
 		"github.vscode-github-actions",
 		"GitHub.codespaces",
-		"GitHub.copilot",
-		"GitHub.copilot-chat",
 		"donjayamanne.githistory",
 		"eamodio.gitlens",
 		"GitHub.remotehub",
@@ -67,7 +56,6 @@
         "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
         "PKief.material-icon-theme",
 		"formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
 		"aaron-bond.better-comments",
 		"alefragnani.Bookmarks",
 		"kisstkondoros.vscode-gutter-preview",
@@ -82,7 +70,6 @@
         "jock.svg",
         "SimonSiefke.svg-preview",
 		"pflannery.vscode-versionlens",
-        "VisualStudioExptTeam.vscodeintellicode",
 		"deerawan.vscode-faker",
         "tomoki1207.pdf"
 	]

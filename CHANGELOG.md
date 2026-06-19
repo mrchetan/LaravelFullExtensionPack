@@ -1,5 +1,10 @@
 # Change Log
 
+## [4.2.0]
+- Update Extension engine
+- Remove Extension `Auto Rename Tag`, `AWS Toolkit`, `GitHub Copilot`, `GitHub Copilot Chat`, `PhpStorm Parameter Hints in VScode`, `Laravel Model Snippets`, `Format HTML in PHP`, `Laravel Artisan`, `laravel relationship snippets`, `Laravel Snippets`, `laravel intellisense`, `Laravel Extra Intellisense` and `Visual Studio IntelliCode`
+- Relpace Extension `PHP Sniffer` with `Sniffer of PHP`
+
 ## [4.1.0]
 - Update Extension engine
 
